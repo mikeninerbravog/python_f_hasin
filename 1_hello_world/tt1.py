@@ -17,6 +17,7 @@ if it's the main program being executed, __name__ is set to '__main__'.
 
 main(): If the script is being run as the main program (not imported as a module), this line calls the main function, 
 which, in turn, calls the greet function. 
++
 """
 
 if __name__ == '__main__':
